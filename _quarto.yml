@@ -31,7 +31,12 @@ website:
         text: "Norsk statistisk forening"
       - href: nsf2024.qmd
         text: "NSF2024 Konferanse"
-        
+ 
+    right: 
+      - href: home.qmd
+        text: "Norsk"
+      - href: home_en.qmd
+        text: "English"    
 
 
 format:

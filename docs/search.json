@@ -110,5 +110,40 @@
     "title": "Norsk statistisk forening, avdeling Oslo",
     "section": "Kontakt",
     "text": "Kontakt\nKontakt oss"
+  },
+  {
+    "objectID": "home_en.html",
+    "href": "home_en.html",
+    "title": "Oslo section of the Norwegian Statistical Association",
+    "section": "",
+    "text": "View from Vettakollen"
+  },
+  {
+    "objectID": "home_en.html#latest-news",
+    "href": "home_en.html#latest-news",
+    "title": "Oslo section of the Norwegian Statistical Association",
+    "section": "Latest News",
+    "text": "Latest News\n🎊 New board for the Oslo section of the Norwegian Statistical Association!\nHead: Clara Bertinelli Salucci, UiO\nTreasurer: Lars Henry Berge Olsen, NR\nSecretary: Simon Lergenmuller, Kreftregistret\nWebsite manager: Zhi Zhao, UiO\nBoard member: Marthe Elisabeth Aastveit, UiO/NR\nBoard member: Vera Haugen Kvisgaard, UiO"
+  },
+  {
+    "objectID": "home_en.html#member-meetings",
+    "href": "home_en.html#member-meetings",
+    "title": "Oslo section of the Norwegian Statistical Association",
+    "section": "Member meetings",
+    "text": "Member meetings\n\n🎉 Statistics evening 22.05.2025\n\n“Statistical modelling using gradient boosting algorithms: applications across diverse fields” with Riccardo De Bin\nProgram:\n17.00 - 17.20: Pizza, sushi and beverages\n17.20 - 17.30: Annual meeting\n17.30 - 18.30: Presentation by Riccardo De Bin\nPlace: Norwegian Computing Center (NR), (Alfa-Omega room, Gaustadalléen 23A, 0373 Oslo)\nSpeaker: Riccardo De Bin\nTitle:  Statistical modelling using gradient boosting algorithms: applications across diverse fields \nAbstract:\nIn this talk we will see how the gradient boosting approach can be used to fit statistical models in various contexts: in the analysis of omics data through First Hitting Time models; in the prediction of the remaining useful life of lithium-ion batteries; in the assessment of airport runway conditions for safe landings; and in the analysis of the properties of transition metal complexes for catalysis. Statistical issues addressed in this talk include the extensions of classical survival models to the high dimensional frameworks, where the number of variables is (much) larger than the number of observations; the handling of informative censoring in survival models; and the exploration of graph structures."
+  },
+  {
+    "objectID": "home_en.html#local-institutions",
+    "href": "home_en.html#local-institutions",
+    "title": "Oslo section of the Norwegian Statistical Association",
+    "section": "Local institutions",
+    "text": "Local institutions"
+  },
+  {
+    "objectID": "home_en.html#contact-information",
+    "href": "home_en.html#contact-information",
+    "title": "Oslo section of the Norwegian Statistical Association",
+    "section": "Contact information",
+    "text": "Contact information\nContact us"
   }
 ]
