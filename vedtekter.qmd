@@ -1,0 +1,10 @@
+---
+title: "Vedtekter"
+format: 
+  html:
+    code-fold: true
+    code-tools: true
+editor: source
+---
+
+[Gjeldende vedtekter](https://sites.google.com/site/statistiskforening/vedtekter) for Norsk statistisk forening (NSF) Sentralt. </b>

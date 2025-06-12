@@ -1,2 +1,4 @@
-# NSF-Oslo
-Oslo section of the Norwegian Statistical Association
+
+## Nettside for Norsk statistisk forening, avdeling Oslo
+
+Se [her](https://ocbe-uio.github.io/NSF-Oslo)!

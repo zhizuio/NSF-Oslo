@@ -1,0 +1,15 @@
+---
+title: "Norsk statistisk forening"
+format: 
+  html:
+    code-fold: true
+    code-tools: true
+editor: source
+---
+
+Se [detaljer her](https://sites.google.com/site/statistiskforening/forside).
+</b>
+
+<br>
+
+![](fig/logo_NFR_alle.jpeg){width="50%"}

@@ -1,0 +1,34 @@
+---
+title: "Medlemsmøter"
+format: 
+  html:
+    code-fold: true
+    code-tools: true
+editor: source
+---
+
+**Statistics evening in Oslo region**
+
+"_Statistical modelling using gradient boosting algorithms: applications across diverse fields_" 
+with 
+<span style="color:red">Riccardo De Bin</span>
+
+**Program**:
+
+17.00 - 17.20: Pizza, sushi and beverages
+17.20 - 17.30: Annual meeting
+17.30 - 18.30: Presentation by Riccardo De Bin
+
+**Place**: Norwegian Computing Center (NR), ([Alfa-Omega room, Gaustadalléen 23A, 0373 Oslo](https://www.google.com/maps/place/data=!4m2!3m1!1s0x46416de8aff21e49:0x79354ac1e7ca82b3?sa=X&ved=1t:8290&ictx=111)) 
+
+**Speaker**: Riccardo De Bin
+
+**Title**: <span style="color:red">
+Statistical modelling using gradient boosting algorithms: applications across diverse fields
+</span>
+ 
+  
+**Abstract**:
+
+In this talk we will see how the gradient boosting approach can be used to fit statistical models in various contexts: in the analysis of omics data through First Hitting Time models; in the prediction of the remaining useful life of lithium-ion batteries; in the assessment of airport runway conditions for safe landings; and in the analysis of the properties of transition metal complexes for catalysis. Statistical issues addressed in this talk include the extensions of classical survival models to the high dimensional frameworks, where the number of variables is (much) larger than the number of observations; the handling of informative censoring in survival models; and the exploration of graph structures. 
+

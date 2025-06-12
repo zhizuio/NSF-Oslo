@@ -1,0 +1,23 @@
+---
+title: "Styret"
+format: 
+  html:
+    code-fold: true
+    code-tools: true
+editor: source
+---
+
+**Styret i Norsk statistisk forening, avdeling Oslo**
+
+**Leder**: [Clara Bertinelli Salucci](https://www.mn.uio.no/math/english/people/aca/clarabe/), UiO 
+
+**Kasserer**: [Lars Henry Berge Olsen](https://nr.no/ansatte/lars-henry-berge-olsen/), NR
+
+**Sekretær**: [Simon Lergenmuller](https://www.fhi.no/om/organisasjon/metodeutvikling-og-analyse/simon-lergenmuller/), FHI 
+
+**Nettsideansvarlig**: [Zhi Zhao](https://www.med.uio.no/imb/english/people/aca/zhiz/), UiO 
+
+**Styremedlem**: [Marthe Elisabeth Aastveit](https://nr.no/ansatte/marthe-elisabeth-aastveit/), UiO/NR 
+
+**Styremedlem**: [Vera Haugen Kvisgaard](https://www.mn.uio.no/math/english/people/aca/verahk/), UiO </b>
+

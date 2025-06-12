@@ -1,0 +1,20 @@
+---
+title: "Det 21. norske statistikermøtet"
+format: 
+  html:
+    code-fold: true
+    code-tools: true
+editor: source
+---
+
+Se [detaljer her](https://sites.google.com/view/nsm24/).
+
+Det 21. [norske
+statistikermøtet](https://www.biometricsociety.org/about/regions-networks/central-european-network)
+skjedde i Tønsberg, 17-20 Juni, 2024</b>. </font>
+
+Etter en lengre pause enn ønsket er vi glade for å endelig kunne
+invitere dere alle tilbake til det 21. norske statistikermøte i 2024! Vi
+ser frem til å samle det norske statistikkmiljøet igjen for å dele
+kunnskap og styrke felleskapet. Deres bidrag og deltagelse vil være
+avgjørende for å gjøre årets konferanse til en suksess. </b>

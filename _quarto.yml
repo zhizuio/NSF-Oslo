@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: docs
+
+theme:
+  light: default
+  dark: [default, theme-dark.scss]
+  
+website:
+  page-navigation: true
+  
+  
+  navbar:
+    logo: "fig/logo_NSF_Oslo2.png"
+    pinned: true
+    align: center
+    
+    background: light
+    search: true
+    collapse-below: sm
+    left: 
+      - href: home.qmd
+        text: "Hovedside"
+      - href: styret.qmd
+        text: "Styret"
+      - href: medlemsmoter.qmd
+        text: "Medlemsmøter"
+      - href: vedtekter.qmd
+        text: "Vedtekter"
+      - href: nsf.qmd
+        text: "Norsk statistisk forening"
+      - href: nsf2024.qmd
+        text: "NSF2024 Konferanse"
+        
+
+
+format:
+  html:
+    theme: 
+      light: default
+      dark: [default, theme-dark.scss]
+    toc: true
+    toc-depth: 4
+    appendix-style: none
+    bibliography: "references.bib"
+    fig-align: left
+    
+    lang: en
+    language: 
+      title-block-published: "UPDATED"
+      
+    page-layout: full
+    grid: 
+      sidebar-width: 350px
+      margin-width: 350px
+    
+  # pdf:
+  #   geometry:
+  #     - bottom=17mm
+  #     - left=15mm
+  #     - right=15mm
+  #   fontsize: 16pt
+    
