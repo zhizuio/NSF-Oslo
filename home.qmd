@@ -81,6 +81,6 @@ In this talk we will see how the gradient boosting approach can be used to fit s
 
 <br>
 
-## Contact information
+## Kontakt
 
-[Contact us](mailto:zhi.zhao@medisin.uio.no)
+[Kontakt oss](mailto:zhi.zhao@medisin.uio.no)
