@@ -42,7 +42,6 @@ format:
     toc: true
     toc-depth: 4
     appendix-style: none
-    bibliography: "references.bib"
     fig-align: left
     
     lang: en

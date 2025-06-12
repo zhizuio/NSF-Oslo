@@ -69,7 +69,7 @@ In this talk we will see how the gradient boosting approach can be used to fit s
 
 ## Lokale institusjoner {.unnumbered}
 
-![](fig/logos_institutions/uio.jpg){width="30%"}
+![](fig/logos_institutions/uio2.jpg){width="30%"}
 ![](fig/logos_institutions/oslomet.jpeg){width="20%"}
 ![](fig/logos_institutions/bi.png){width="20%"}
 ![](fig/logos_institutions/fhi2.png){width="20%"}
