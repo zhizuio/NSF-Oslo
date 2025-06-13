@@ -2,8 +2,8 @@
 title: "Det 21. norske statistikermøtet"
 format: 
   html:
-    code-fold: true
-    code-tools: true
+    toc: true
+    toc-location: left
 editor: source
 ---
 
