@@ -95,3 +95,74 @@ Dette systemet finnes nå i en rein R-versjon, RTMB, og jeg vil gi en kort innf�
 Arbeidet som presenteres har blitt utført på oppdrag fra Norges forskningsråd. </b>
 
 <br>
+
+### 🎉 09.05.2023 
+</b>
+
+"_Bayes, Confidence Distributions, and US Pre-War Economy_" 
+with 
+<span style="color:red">Nils Lid Hjort</span>
+
+<u>Program</u>:
+
+17.00 - 17.30: Pizza, sushi and beverages
+
+17.30 - 18.30: Presentation by Nils Lid Hjort
+
+**Place**: Abels utsikt (12th floor, Niels Henrik Abels hus - Universitetet i Oslo) and Zoom
+
+**Speaker**: Nils Lid Hjort, UiO
+
+**Title**: <span style="color:red">
+Bayes, Confidence Distributions, and US Pre-War Economy
+</span>
+ 
+  
+**Abstract**:
+
+Confidence distributions are frequentist analogues of the Bayesian posterior distributions, but without priors. 
+Often these two approaches lead to similar results, regarding post-data intervals for primary parameters, etc. 
+Situations with boundary parameters are different and more complicated, however. 
+If your focus parameter is known to be nonnegative, a common Bayesian solution is to work with a flat prior from zero to infinity. 
+I show that this might lead to very different and ostensibly wrong results, compared to confidence distributions. 
+
+When Christopher Sims won the Sveriges Riksbank Prize in Economic Sciences im Memory of Alfred Nobel for 2011 (the so-called Nobel Prize in Economics), he chose for his Stockholm prize lecture to showcase how Bayesian modelling with MCMC worked for the analysis of a certain dataset on pre-war US macroeconomics (involving consumption, investment, government spending, 1929 to 1940). 
+I illustrate the apparatus of confidence distributions with t-bootstrapping to analyse the same data and the same vector autoregressive time series model, but reaching rather different results when assessing the main parameters.
+
+The essence of this story is contained in my book Confidence, Likelihood, Probability, with Tore Schweder, but I have more material and a different presentation of the main reasons for the differences with the Bayesian setup. </b>
+
+<br>
+
+### 🎉 30.11.2022 
+</b>
+
+"_The Brier score for evaluating time-to-event predictions for administratively censored data: problems and a solution_" 
+with 
+<span style="color:red">Ørnulf Borgan</span>
+
+<u>Program</u>:
+
+17.00 - 17.30: Pizza, sushi and beverages
+
+17.30 - 18.30: Presentation by Ørnulf Borgan
+
+**Place**: Abels utsikt (12th floor, Niels Henrik Abels hus - Universitetet i Oslo) and Zoom
+
+**Speaker**: Ørnulf Borgan, UiO
+
+**Title**: <span style="color:red">
+The Brier score for evaluating time-to-event predictions for administratively censored data: problems and a solution
+</span>
+ 
+  
+**Abstract**:
+
+The Brier score is commonly used for evaluating probability predictions. 
+For time-to-event predictions based on right-censored observations of the event times, the score can be weighted by the inverse probability of censoring (IPCW) to retain its original interpretation. 
+In the talk I will consider situations where individuals are recruited to a study population at different calendar times, and then followed up to the occurrence of an event of interest or to the closure of the study at a given date. 
+For such administratively censored data, there may be problems with the IPCW weighting scheme when the distribution of the covariates varies with calendar time. 
+I will discuss the reason for these problems, and also suggest an alternative version of the Brier score that does not suffer from the same problems. 
+The talk is based on a joint paper with Håvard Kvamme that will soon appear in the Journal of Machine Learning Research. </b>
+
+<br>
+
