@@ -7,4 +7,6 @@ format:
 editor: source
 ---
 
+<br>
+
 [Gjeldende vedtekter](https://sites.google.com/site/statistiskforening/vedtekter) for Norsk statistisk forening (NSF) Sentralt. </b>
