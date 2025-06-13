@@ -21,6 +21,8 @@ knitr::opts_chunk$set(eval = FALSE)
 
 ## Siste nytt {.unnumbered}
 
+<br>
+
 <p style="font-family: times, serif; font-size:16pt; font-style:italic">
 🎊 <span style="color:red">_**Nytt styret**_</span> **i Norsk statistisk forening, avdeling Oslo**
 </p>
@@ -75,6 +77,8 @@ Statistical issues addressed in this talk include the extensions of classical su
 
 ## Lokale institusjoner {.unnumbered}
 
+<br>
+
 ![](fig/logos_institutions/uio2.jpg){width="30%"}
 ![](fig/logos_institutions/oslomet.jpeg){width="20%"}
 ![](fig/logos_institutions/bi.png){width="20%"}
@@ -88,5 +92,7 @@ Statistical issues addressed in this talk include the extensions of classical su
 <br>
 
 ## Kontakt
+
+<br>
 
 [Kontakt oss](mailto:zhi.zhao@medisin.uio.no)
