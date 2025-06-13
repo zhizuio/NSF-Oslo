@@ -25,7 +25,7 @@ knitr::opts_chunk$set(eval = FALSE)
 
 **Kasserer**: Lars Henry Berge Olsen, NR
 
-**Sekretær**: Simon Lergenmuller, Kreftregistret 
+**Sekretær**: Simon Lergenmuller, FHI 
 
 **Nettsideansvarlig**: Zhi Zhao, UiO 
 
