@@ -25,6 +25,8 @@ website:
         text: "Styret"
       - href: medlemsmoter.qmd
         text: "Temakveld og medlemsmøter"
+      - href: TG.qmd
+        text: "Tilfeldig gang"
       - href: vedtekter.qmd
         text: "Vedtekter"
       - href: nsf.qmd

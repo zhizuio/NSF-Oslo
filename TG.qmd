@@ -1,0 +1,17 @@
+---
+title: "TG-redaksjonen hos NSF-Oslo"
+format: 
+  html:
+    toc: true
+    toc-location: left
+editor: source
+---
+
+<br>
+
+[Tilfeldig gang](https://sites.google.com/site/statistiskforening/tilfeldig-gang) (TG) er Norsk statistisk forenings medlemsblad. 
+Bladet sprer saker av interesse for medlemmene - nyheter, kommentarer, mindre fagartikler og puslerier. 
+Redaksjonsansvaret alternerer mellom de ulike avdelingene av NSF. 
+Nå for tiden ligger det hos oss i Oslo, og redaksjonen ønsker stadig bidrag eller tips til neste nummer! 
+
+Send en e-post til [Vera Haugen Kvisgaard](mailto:verahk@math.uio.no) hvis du vil på trykk!
