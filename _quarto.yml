@@ -24,7 +24,7 @@ website:
       - href: styret.qmd
         text: "Styret"
       - href: medlemsmoter.qmd
-        text: "Temakveld og Medlemsmøter"
+        text: "Temakveld og medlemsmøter"
       - href: vedtekter.qmd
         text: "Vedtekter"
       - href: nsf.qmd

@@ -74,9 +74,32 @@ Statistical issues addressed in this talk include the extensions of classical su
 
 <br>
 
-### 🎉 xx.xx.2025 i Ås
+### 🎉 16.01.2025
+</b>
 
-...
+"_Statistics is biology's next microscope. Biostatistical research collaborations interpreted in knitted designs_" 
+with 
+<span style="color:red">Kathrine Frey Frøslie</span>
+
+<u>Program</u>:
+
+17.00 - 17.30: Pizza, sushi and beverages
+
+17.30 - 18.30: Presentation by Kathrine Frey Frøslie
+
+**Place**: NMBU, Ås, Library at biotechnology building ([Chr. Magnus Falsens v. 16, 1433 Ås](https://maps.app.goo.gl/oVaQyjg9eNx7oRwf6)) and Teams
+
+**Speaker**: Riccardo De Bin, UiO
+
+**Title**: <span style="color:red">
+Statistics is biology's next microscope. Biostatistical research collaborations interpreted in knitted designs
+</span>
+ 
+  
+**Abstract**:
+
+The talk will be a fusion of art and science. 
+You will both get an overview of the research topics, the design processes, and see the artwork IRL. </b>
 
 <br>
 
@@ -199,7 +222,7 @@ The talk is based on a joint paper with Håvard Kvamme that will soon appear in 
 
 <br>
 
-![](fig/logos_institutions/uio_eng.jpg){width="30%"}
+![](fig/logos_institutions/uio_eng2.png){width="30%"}
 ![](fig/logos_institutions/oslomet.jpeg){width="20%"}
 ![](fig/logos_institutions/bi_eng.png){width="20%"}
 ![](fig/logos_institutions/fhi_eng3.png){width="20%"}

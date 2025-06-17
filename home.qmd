@@ -79,12 +79,12 @@ Statistical issues addressed in this talk include the extensions of classical su
 
 <br>
 
-![](fig/logos_institutions/uio2.jpg){width="30%"}
+![](fig/logos_institutions/uio2.png){width="30%"}
 ![](fig/logos_institutions/oslomet.jpeg){width="20%"}
 ![](fig/logos_institutions/bi.png){width="20%"}
 ![](fig/logos_institutions/fhi2.png){width="20%"}
 
-![](fig/logos_institutions/nmbu.jpg){width="20%"}
+![](fig/logos_institutions/nmbu.png){width="10%"}
 ![](fig/logos_institutions/nr.png){width="20%"}
 ![](fig/logos_institutions/ous.png){width="25%"}
 </b>
