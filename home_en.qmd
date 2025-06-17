@@ -23,6 +23,17 @@ knitr::opts_chunk$set(eval = FALSE)
 
 <br>
 
+<p style="font-family: times, serif; font-size:16pt; font-style:italic">
+
+📰 **New issue of** [***Tilfeldig gang***]{style="color:red"}
+
+</p>
+
+A new issue of TG ([no. 1, vol. 42](https://drive.google.com/file/d/1aIuVIb_SxhygtuARvmD5PdcaVuWJAct9/view))
+is now available on the website (in Norwegian)!
+
+<br>
+
 🎊 _<span style="color:red">New board</span> for the Oslo section of the Norwegian Statistical Association!_
 
 **Head**: Clara Bertinelli Salucci, UiO 
