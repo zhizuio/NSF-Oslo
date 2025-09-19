@@ -25,7 +25,7 @@ knitr::opts_chunk$set(eval = FALSE)
 
 <p style="font-family: times, serif; font-size:16pt; font-style:italic">
 
-🎉 **Temakveld 16.10.2025**
+🎉 **Temakveld 09.10.2025**
 
 </p>
 
